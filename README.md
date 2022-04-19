@@ -10,12 +10,17 @@
 
 - ❔ In my profile you can check the projects developed for my Master!
 
-<h4 align="left">Languages: </h3>
+<h4 align="left">Skills: </h3>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 
 <h4 align="left">📫 How can you reach me?</h3>
 
