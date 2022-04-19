@@ -8,7 +8,7 @@
 - 👩🏽‍💻 My main coding language is Python
 - 😍 I’m passionate about data: data science, data visualization, data analytics!
 
-- ❔ In my profile you can check the projects developed for my Master!
+- ❔ The available repositories were some of the projects developed during my Master Degree. Being a Master in Data Science, most of them are solutions to Data Science Problems
 
 <h4 align="left">Skills: </h3>
 
