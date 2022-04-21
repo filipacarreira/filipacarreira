@@ -6,7 +6,7 @@
 - 🎓 I’m currently in the first year of the Master in Data Science and Advanced analytics, with a Major in Data Science, in [Nova IMS](https://www.novaims.unl.pt/), Lisbon 
 - 📝 I'll develop my thesis on geo-tagged Twitter data, analyzing the propagation of social events in this platform
 - 👩🏽‍💻 My main coding language is Python
-- 😍 I’m passionate about data: data science, data visualization, data analytics!
+- 😍 I’m passionate about data: data science, data visualization, data analytics, ...!
 
 - ❔ The available repositories were some of the projects developed during my Master Degree. Being a Master in Data Science, most of them are solutions to Data Science Problems
 
