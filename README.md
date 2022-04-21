@@ -21,8 +21,12 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-black?style=flat-square&logo=MicrosoftAccess)
 
 <h4 align="left">📫 How can you reach me?</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/filipacarreiraalves/?locale=en_US) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipacarreira@gmail.com)](mailto:filipacarreira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836??style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipacarreira@gmail.com)](mailto:filipacarreira@gmail.com)
+
