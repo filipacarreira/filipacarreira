@@ -27,6 +27,6 @@
 
 <h4 align="left">📫 How can you reach me?</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/filipacarreiraalves/?locale=en_US) 
+[![Linkedin Badge](https://img.shields.io/badge/-LindkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/filipacarreiraalves/?locale=en_US) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836??style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipacarreira@gmail.com)](mailto:filipacarreira@gmail.com)
 
