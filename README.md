@@ -23,6 +23,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![Pymongo](https://img.shields.io/badge/-PyMongo-black?style=flat-square&logo=pymongo)
+![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=pyspark)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-black?style=flat-square&logo=MicrosoftAccess)
 
 <h4 align="left">📫 How can you reach me?</h3>
