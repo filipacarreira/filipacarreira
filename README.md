@@ -1,10 +1,10 @@
 <h1 align="center"> Hello World, I'm Filipa 👋 </h1>
-<h3 align="center">👩🏽‍💻 Future Data Scientist 👩🏽‍💻</h3>
+<h3 align="center">👩🏽‍💻 Data Scientist in NOS 👩🏽‍💻</h3>
 
 
 
-- 🎓 I’m currently in the first year of the Master in Data Science and Advanced analytics, with a Major in Data Science, in [Nova IMS](https://www.novaims.unl.pt/), Lisbon 
-- 📝 I'll develop my thesis on geo-tagged Twitter data, analyzing the propagation of social events in this platform
+- 🎓 I’m currently in the second year of the Master in Data Science and Advanced analytics, with a Major in Data Science, in [Nova IMS](https://www.novaims.unl.pt/), Lisbon 
+- 📝 I'm developing my thesis on geo-tagged Twitter data, analyzing the propagation of social events in this platform
 - 👩🏽‍💻 My main coding language is Python
 - 😍 I’m passionate about data: data science, data visualization, data analytics, ...!
 
