@@ -3,8 +3,9 @@
 
 
 
-- 🎓 I’m currently in the second year of the Master in Data Science and Advanced analytics, with a Major in Data Science, in [Nova IMS](https://www.novaims.unl.pt/), Lisbon 
-- 📝 I'm developing my thesis on geo-tagged Twitter data, analyzing the propagation of social events in this platform
+- 💻 I'm currently a Data Scientist at NOS, a telecommunications Portuguese Company
+- 🎓 I did a Master in Data Science and Advanced analytics, with a Major in Data Science, in [Nova IMS](https://www.novaims.unl.pt/), Lisbon 
+- 📝 I developed my thesis on geotagged Twitter data, where I applied Topic Modeling to understand what the European population was discussing on this social network platform
 - 👩🏽‍💻 My main coding language is Python
 - 😍 I’m passionate about data: data science, data visualization, data analytics, ...!
 
